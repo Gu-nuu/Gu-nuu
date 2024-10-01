@@ -5,7 +5,7 @@
 
 <!-- Information -->
 ## About Me 🧑🏻‍💻
-<a href="https://big-cinnamon-bd8.notion.site/082379e8eadf44898bf367e8b663927b?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="http://big-cinnamon-bd8.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="mailto:gun000567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gun000567@gmail.com"/></a>
 
   <!-- Tech Skills and Tools -->
